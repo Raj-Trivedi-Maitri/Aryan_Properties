@@ -33,9 +33,11 @@ const User = () => {
           <th className="border"> Username</th>
           <th className="border-l-2 ">Email Address</th>
           <th className="border-l-2">Status</th>
-          <th className="border-l-2">Password Change</th>
+          <th className="border-l-2">Password Change</th> 
           <th className="border-l-2"> Actions</th>
         </tr>
+
+        {/* hjefwjebfwehf */}
 
         <tr>
           <td className="p-4">
